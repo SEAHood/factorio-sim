@@ -1,5 +1,2 @@
-# P5 Typescript Skeleton!
+# factorio sim 
 
-I wrote this because I couldn't be bothered writing all this crap every time
-
-- Sam
